@@ -1,0 +1,11 @@
+{
+	"name": "chimerarocks/layout-config",
+	"require": {
+		"php": ">=5.5.9"
+	},
+	"autoload": {
+		"psr-4": {
+			"ChimeraRocks\\LayoutConfig\\": "src/ChimeraRocks/LayoutConfig"
+		}
+	}
+}
